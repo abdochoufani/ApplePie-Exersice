@@ -32,6 +32,13 @@ header p {
     text-align: center;
 }
 
+.ingredients ul {
+    list-style-type: none;
+}
+
+.ingredients ul li::before {
+    content: "-"
+}
 
 
 .container {
