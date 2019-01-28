@@ -8,6 +8,7 @@
 }
 body {
     display: block;
+    
 
 }
 .border {
@@ -34,12 +35,14 @@ header p {
 
 
 .container {
-    margin: 2% 30%;
+    margin: 2% 20%;
+    font-size: 1rem;
+    display: block;
 }
 
 
 .img-container {
-    margin: 2% 10%;
+    margin: 2% 25%;
 }
 
 
