@@ -43,14 +43,15 @@ header p {
 
 .container {
     padding: 2% 20%;
-    font-size: 1rem;
+    font-size: 1em;
     
 }
 
 
 .img-container img {
     display: block;
-    margin: 2% auto;
+    width: 100%;
+    margin: 1% auto;
 }
 
 
